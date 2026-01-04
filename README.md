@@ -1,5 +1,20 @@
-### Hi there 👋
+👨‍💻 Middle Developer
 
-How to contact me: Just send email to hello@rasultuktarov.ru
+💼 Опыт в разработке высоконагруженных и отказоустойчивых финансовых систем.
+📌 Стек, с которым работаю профессионально:
+  • Backend: Java (Spring/Spring Boot), Python (FastAPI)
+  • Frontend: JavaScript/TypeScript (React/Vue/Node.js)
+  • Инфраструктура: Docker, Kubernetes, Kafka, SQL/NoSQL БД
+  • Методологии: Agile/Scrum, CI/CD
 
-My education: Incomplete Higher Education, Organization and technology of information security 2009
+🔭 В настоящее время углубляюсь в:
+  - Микросервисную архитектуру и event-driven design
+  - Оптимизацию производительности и анализ данных
+  - Cloud-native подход
+
+🌱 Интересуюсь:
+  - Системным дизайном и архитектурными паттернами
+  - Machine Learning и его применением в финтехе
+  - Развитием в сторону Tech/Team Lead
+
+📫 Как со мной связаться: lusarkhan30@gmailcom
